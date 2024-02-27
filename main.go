@@ -36,8 +36,8 @@ func main() {
 
 	mobilSaya := &Mobil{
 		Merk:  "Toyota",
-		Ban:   "Biasa",
-		Bunyi: "Vroom",
+		Ban:   "ban karet",
+		Bunyi: "deep",
 	}
 
 	mobilSaya.GantiBan("Ban Kayu")
